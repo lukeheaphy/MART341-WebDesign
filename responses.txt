@@ -1,3 +1,6 @@
 What is a directory, and what is its relationship to files?
+A directory is a place in which you can organize all of your info. You can put individual files within a directory. A person could have a work directory, a grocery directory, and a hobby directory. Within each of these you can have files to organize info within the overarching idea
 How are VCS useful?
+Virtual Control Systems are great because they can be edited by many people at the same time without being on the same computer. This is great for big projects when lots of people are trying to put in information at the same time.
 Do you have a favorite artistic medium? Why is it your favorite?
+My favorite artistic medium would be music. This is because music can express emotion in so many different ways. Through words, through tone, though speed, or even through instrument choice. It is up to the artist to decide how to portray what they feel.
