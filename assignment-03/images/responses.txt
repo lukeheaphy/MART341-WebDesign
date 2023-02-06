@@ -1,6 +1,0 @@
-What is the relationship between an IP address and the DNS?
-The DNS is the function that translates the domain name to the IP address. This allows a website to be accessed
-What is a cookie?
-A cookie is a datapoint or points that are collected and stored. These can be useful with website history and preferences
-What are the three essential parts of a URL?
- 
