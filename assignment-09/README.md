@@ -1,0 +1,5 @@
+Briefly recap your experience learning HTML. What was old, new, interesting, or difficult to learn?
+
+I enjoy adding new code's that allow for adding different looks to websites. Whether it be a specific formatting or changing how a border is, I feel as if HTML offers such a wide variety of code that you will always be learning new tricks.
+After we come back from spring break we will start to dive into CSS and expand on styling, which helps us "decorate" HTML. Is there anything you're anxious or excited to learn about in this new section?
+I hope that we learn on how to make something that truly looks professional. I have a buisness idea myself that I would love to create a website for here in the near future. It would have to be able to add lots of products often along with being able to take payments and collect personal information for shipping purposes. This is a lot more than we currently know but I hope we learn something in that direction!
